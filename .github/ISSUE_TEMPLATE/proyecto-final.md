@@ -7,8 +7,10 @@ assignees: ''
 
 ---
 
-**As a** [usuario.]
- **I need** [Necesito la capacidad de crear un producto en el catálogo.]
+**As a** [usuario.],
+
+ **I need** [Necesito la capacidad de crear un producto en el catálogo.],
+ 
  **So that** [Entender como funciona.]
 
  ### Details and Assumptions
