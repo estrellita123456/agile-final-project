@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-**As a** [role]  
- **I need** [function]  
- **So that** [benefit]  
+**As a** [usuario]  
+ **I need** [Necesito la capacidad de crear un producto en el catálogo]  
+ **So that** [Entender como funciona]  
 
  ### Details and Assumptions
  * [document what you know]
