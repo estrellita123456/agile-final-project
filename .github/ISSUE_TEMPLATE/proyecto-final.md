@@ -1,7 +1,7 @@
 ---
 name: Proyecto final
 about: Esta es plantilla para proyecto final
-title: ''
+title: 'Se necesita la capacidad de crear un producto en el catálogo.'
 labels: ''
 assignees: ''
 
